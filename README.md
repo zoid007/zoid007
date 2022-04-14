@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Abhijeet Singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I’m Abhijeet Singh
 
-<!---
-zoid007/zoid007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make elegantly professional Distributed Infrastructure, 🖌️ Vector arts and 🌐 Website for a living and also do day trading. 🌈
+
+🧐 Interested in full stack & fintech Recent focus on Iaas.
+🌱 Currently learning Virtualization, Rust, Solidity, Math & Philosophy.
